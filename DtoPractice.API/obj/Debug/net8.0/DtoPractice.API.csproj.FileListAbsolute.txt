@@ -112,3 +112,4 @@ C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.API\obj\Debug\net8.0
 C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.API\bin\Debug\net8.0\Mapster.dll
 C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.API\bin\Debug\net8.0\Mapster.Core.dll
 C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.API\obj\Debug\net8.0\DtoPractice.API.sourcelink.json
+C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.API\bin\Debug\net8.0\AutoMapper.dll

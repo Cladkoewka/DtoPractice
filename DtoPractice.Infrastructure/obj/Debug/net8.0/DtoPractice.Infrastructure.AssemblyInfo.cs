@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DtoPractice.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1eb5e3e3470df20d684386a244701a39d26eb9c9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52e03c355f78df655332f02f3617cc451fb7da56")]
 [assembly: System.Reflection.AssemblyProductAttribute("DtoPractice.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DtoPractice.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

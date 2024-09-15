@@ -2,7 +2,7 @@ using DtoPractice.Application.DTOs;
 using DtoPractice.Domain.Entities;
 using Mapster;
 
-namespace DtoPractice.Application.Services.Mapping;
+namespace DtoPractice.Application.Services.Mapping.Mapster;
 
 public static class MappingConfig
 {

@@ -1,5 +1,7 @@
 using DtoPractice.Application.Services;
 using DtoPractice.Application.Services.Mapping;
+using DtoPractice.Application.Services.Mapping.AutoMapper;
+using DtoPractice.Application.Services.Mapping.Mapster;
 using DtoPractice.Infrastructure;
 using DtoPractice.Infrastructure.Repositories;
 using Microsoft.EntityFrameworkCore;
@@ -16,9 +18,13 @@ services.AddScoped<IProductRepository, ProductRepository>();
 
 
 services.AddScoped<IProductService, ProductService>();
-//services.AddScoped<IProductMapper, ProductMapperManual>();
-services.AddScoped<IProductMapper, ProductMapperMapster>();
 
+//services.AddScoped<IProductMapper, ProductMapperManual>();
+//services.AddScoped<IProductMapper, ProductMapperMapster>();
+
+services.AddAutoMapper(typeof(ProductProfile));
+
+services.AddScoped<IProductMapper, ProductMapperAutoMapper>();
 
 services.AddControllers();
 
