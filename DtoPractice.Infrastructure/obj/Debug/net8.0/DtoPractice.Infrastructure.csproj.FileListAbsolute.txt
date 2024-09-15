@@ -1,0 +1,17 @@
+C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.Infrastructure\bin\Debug\net8.0\DtoPractice.Infrastructure.deps.json
+C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.Infrastructure\bin\Debug\net8.0\DtoPractice.Infrastructure.runtimeconfig.json
+C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.Infrastructure\bin\Debug\net8.0\DtoPractice.Infrastructure.dll
+C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.Infrastructure\bin\Debug\net8.0\DtoPractice.Infrastructure.pdb
+C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.Infrastructure\bin\Debug\net8.0\DtoPractice.Domain.dll
+C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.Infrastructure\bin\Debug\net8.0\DtoPractice.Domain.pdb
+C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.Infrastructure\obj\Debug\net8.0\DtoPractice.Infrastructure.csproj.AssemblyReference.cache
+C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.Infrastructure\obj\Debug\net8.0\DtoPractice.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.Infrastructure\obj\Debug\net8.0\DtoPractice.Infrastructure.AssemblyInfoInputs.cache
+C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.Infrastructure\obj\Debug\net8.0\DtoPractice.Infrastructure.AssemblyInfo.cs
+C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.Infrastructure\obj\Debug\net8.0\DtoPractice.Infrastructure.csproj.CoreCompileInputs.cache
+C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.Infrastructure\obj\Debug\net8.0\DtoPract.3FA0ED54.Up2Date
+C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.Infrastructure\obj\Debug\net8.0\DtoPractice.Infrastructure.dll
+C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.Infrastructure\obj\Debug\net8.0\refint\DtoPractice.Infrastructure.dll
+C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.Infrastructure\obj\Debug\net8.0\DtoPractice.Infrastructure.pdb
+C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.Infrastructure\obj\Debug\net8.0\DtoPractice.Infrastructure.genruntimeconfig.cache
+C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.Infrastructure\obj\Debug\net8.0\ref\DtoPractice.Infrastructure.dll

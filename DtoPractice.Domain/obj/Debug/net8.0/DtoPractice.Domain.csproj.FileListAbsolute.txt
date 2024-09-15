@@ -1,0 +1,11 @@
+C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.Domain\bin\Debug\net8.0\DtoPractice.Domain.deps.json
+C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.Domain\bin\Debug\net8.0\DtoPractice.Domain.dll
+C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.Domain\bin\Debug\net8.0\DtoPractice.Domain.pdb
+C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.Domain\obj\Debug\net8.0\DtoPractice.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.Domain\obj\Debug\net8.0\DtoPractice.Domain.AssemblyInfoInputs.cache
+C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.Domain\obj\Debug\net8.0\DtoPractice.Domain.AssemblyInfo.cs
+C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.Domain\obj\Debug\net8.0\DtoPractice.Domain.csproj.CoreCompileInputs.cache
+C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.Domain\obj\Debug\net8.0\DtoPractice.Domain.dll
+C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.Domain\obj\Debug\net8.0\refint\DtoPractice.Domain.dll
+C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.Domain\obj\Debug\net8.0\DtoPractice.Domain.pdb
+C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.Domain\obj\Debug\net8.0\ref\DtoPractice.Domain.dll

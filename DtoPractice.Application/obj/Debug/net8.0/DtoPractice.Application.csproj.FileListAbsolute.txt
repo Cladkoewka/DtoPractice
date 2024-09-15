@@ -1,0 +1,17 @@
+C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.Application\bin\Debug\net8.0\DtoPractice.Application.deps.json
+C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.Application\bin\Debug\net8.0\DtoPractice.Application.dll
+C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.Application\bin\Debug\net8.0\DtoPractice.Application.pdb
+C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.Application\bin\Debug\net8.0\DtoPractice.Domain.dll
+C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.Application\bin\Debug\net8.0\DtoPractice.Infrastructure.dll
+C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.Application\bin\Debug\net8.0\DtoPractice.Infrastructure.pdb
+C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.Application\bin\Debug\net8.0\DtoPractice.Domain.pdb
+C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.Application\obj\Debug\net8.0\DtoPractice.Application.csproj.AssemblyReference.cache
+C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.Application\obj\Debug\net8.0\DtoPractice.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.Application\obj\Debug\net8.0\DtoPractice.Application.AssemblyInfoInputs.cache
+C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.Application\obj\Debug\net8.0\DtoPractice.Application.AssemblyInfo.cs
+C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.Application\obj\Debug\net8.0\DtoPractice.Application.csproj.CoreCompileInputs.cache
+C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.Application\obj\Debug\net8.0\DtoPract.7A5E55DB.Up2Date
+C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.Application\obj\Debug\net8.0\DtoPractice.Application.dll
+C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.Application\obj\Debug\net8.0\refint\DtoPractice.Application.dll
+C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.Application\obj\Debug\net8.0\DtoPractice.Application.pdb
+C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.Application\obj\Debug\net8.0\ref\DtoPractice.Application.dll
