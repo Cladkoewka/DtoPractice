@@ -2,8 +2,10 @@ using DtoPractice.Application.Services;
 using DtoPractice.Application.Services.Mapping;
 using DtoPractice.Application.Services.Mapping.AutoMapper;
 using DtoPractice.Application.Services.Mapping.Mapster;
+using DtoPractice.Application.Services.Validation;
 using DtoPractice.Infrastructure;
 using DtoPractice.Infrastructure.Repositories;
+using FluentValidation.AspNetCore;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
 
@@ -25,6 +27,7 @@ services.AddScoped<IProductService, ProductService>();
 services.AddAutoMapper(typeof(ProductProfile));
 
 services.AddScoped<IProductMapper, ProductMapperAutoMapper>();
+services.AddFluentValidation(fv => fv.RegisterValidatorsFromAssemblyContaining<ProductCreateDTOValidator>());
 
 services.AddControllers();
 

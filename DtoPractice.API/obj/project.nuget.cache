@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "SC8jKSOu8E+xrRrgHMKAcxyZPBYGBJrLgBQK9luH+965HZitEdSn7WbYy4+MVznC78103PsKRjfIQeS89pTF7Q==",
+  "dgSpecHash": "YY85X7a6PBHXu2mIbVyCFWpzGHZ6XqeRlaUd91G4wcHkJhdBBNrtJm3YJQdNnlRccsu45dF9e5ytpE1j54WNxQ==",
   "success": true,
   "projectFilePath": "C:\\ITProjects\\.Net\\!TestAssignments\\DtoPractice\\DtoPractice.API\\DtoPractice.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\semen\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\semen\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",
+    "C:\\Users\\semen\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\semen\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "C:\\Users\\semen\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\semen\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
     "C:\\Users\\semen\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512",

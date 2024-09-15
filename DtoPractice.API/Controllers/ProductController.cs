@@ -39,12 +39,23 @@ public class ProductController : ControllerBase
     public async Task<ActionResult> CreateProduct([FromBody] ProductCreateDTO productCreateDTO)
     {
         var createdProductDTO = await _productService.CreateProductAsync(productCreateDTO);
+
+        if (!ModelState.IsValid)
+        {
+            return BadRequest(ModelState);
+        }
+        
         return CreatedAtAction(nameof(GetProduct), new { id = createdProductDTO.Id }, createdProductDTO);
     }
 
     [HttpPut("{id}")]
     public async Task<ActionResult> UpdateProduct(int id, [FromBody] ProductUpdateDTO productUpdateDTO)
     {
+        if (!ModelState.IsValid)
+        {
+            return BadRequest(ModelState);
+        }
+        
         var updated = await _productService.UpdateProductAsync(id, productUpdateDTO);
         if (!updated)
         {
