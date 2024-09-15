@@ -3,7 +3,7 @@ using DtoPractice.Domain.Entities;
 
 namespace DtoPractice.Application.Services.Mapping;
 
-public class ProductMapper : IProductMapper
+public class ProductMapperManual : IProductMapper
 {
     public ProductGetDTO MapToGetDTO(Product product)
     {

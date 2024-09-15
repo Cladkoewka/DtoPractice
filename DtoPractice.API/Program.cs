@@ -16,7 +16,9 @@ services.AddScoped<IProductRepository, ProductRepository>();
 
 
 services.AddScoped<IProductService, ProductService>();
-services.AddScoped<IProductMapper, ProductMapper>();
+//services.AddScoped<IProductMapper, ProductMapperManual>();
+services.AddScoped<IProductMapper, ProductMapperMapster>();
+
 
 services.AddControllers();
 

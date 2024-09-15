@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "cenzkV0JebcwOUaSxOX06lVsM/KTSfCbN/QbLM9TghyOPKG3o98j1G28L2xU9FEVMHgI2YGOepagp2ZfVSFqbA==",
+  "dgSpecHash": "xfag5mEB3ZHIWRgKxecSfJhBwMK3XHcpdInFRUOgUY1rNaVgn3UXHcp/Z3bOV5EoHUFnJhcpAnl2sa8h+1U+fA==",
   "success": true,
   "projectFilePath": "C:\\ITProjects\\.Net\\!TestAssignments\\DtoPractice\\DtoPractice.Application\\DtoPractice.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\semen\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
+    "C:\\Users\\semen\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512",
     "C:\\Users\\semen\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.8\\microsoft.entityframeworkcore.8.0.8.nupkg.sha512",
     "C:\\Users\\semen\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.8\\microsoft.entityframeworkcore.abstractions.8.0.8.nupkg.sha512",
     "C:\\Users\\semen\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.8\\microsoft.entityframeworkcore.analyzers.8.0.8.nupkg.sha512",

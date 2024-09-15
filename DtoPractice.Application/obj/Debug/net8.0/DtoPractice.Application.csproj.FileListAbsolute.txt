@@ -15,3 +15,4 @@ C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.Application\obj\Debu
 C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.Application\obj\Debug\net8.0\refint\DtoPractice.Application.dll
 C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.Application\obj\Debug\net8.0\DtoPractice.Application.pdb
 C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.Application\obj\Debug\net8.0\ref\DtoPractice.Application.dll
+C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.Application\obj\Debug\net8.0\DtoPractice.Application.sourcelink.json

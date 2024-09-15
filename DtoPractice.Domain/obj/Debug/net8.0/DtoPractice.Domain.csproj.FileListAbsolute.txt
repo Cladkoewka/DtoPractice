@@ -9,3 +9,4 @@ C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.Domain\obj\Debug\net
 C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.Domain\obj\Debug\net8.0\refint\DtoPractice.Domain.dll
 C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.Domain\obj\Debug\net8.0\DtoPractice.Domain.pdb
 C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.Domain\obj\Debug\net8.0\ref\DtoPractice.Domain.dll
+C:\ITProjects\.Net\!TestAssignments\DtoPractice\DtoPractice.Domain\obj\Debug\net8.0\DtoPractice.Domain.sourcelink.json
